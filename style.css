@@ -1,0 +1,12 @@
+body {
+   background-color: rgb(9, 24, 69);
+   color: #fff;
+}
+.container {
+   width: min(50%, 600px);
+   background: red;
+   margin: 0 auto;
+}
+.header {
+   
+}
